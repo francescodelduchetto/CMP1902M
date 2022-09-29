@@ -1,4 +1,4 @@
 # Some workshop files for the CMP1902M module 
 
 
-Inspired by https://github.com/chinery/BathUni_IntroductionToPython
+Inspired by, and partly adapted from, https://github.com/chinery/BathUni_IntroductionToPython
